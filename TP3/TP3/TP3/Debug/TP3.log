@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TP3 (1).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SystemeSecurite.cpp
+  RegleAcces.cpp
+  Professeur.cpp
+  PirateInformatique.cpp
+  main.cpp
+  Etudiant.cpp
+  Employe.cpp
+  AgentSecurite.cpp
+  Génération de code en cours...
+c:\users\sébastien\desktop\tp3\tp3\agentsecurite.cpp(38): warning C4715: 'AgentSecurite::getClasseEmploye' : les chemins de contrôle ne retournent pas tous une valeur
+c:\users\sébastien\desktop\tp3\tp3\employe.cpp(60): warning C4715: 'Employe::getClasseEmploye' : les chemins de contrôle ne retournent pas tous une valeur
+c:\users\sébastien\desktop\tp3\tp3\etudiant.cpp(38): warning C4715: 'Etudiant::getClasseEmploye' : les chemins de contrôle ne retournent pas tous une valeur
+c:\users\sébastien\desktop\tp3\tp3\pirateinformatique.cpp(37): warning C4715: 'PirateInformatique::getClasseEmploye' : les chemins de contrôle ne retournent pas tous une valeur
+c:\users\sébastien\desktop\tp3\tp3\professeur.cpp(38): warning C4715: 'Professeur::getClasseEmploye' : les chemins de contrôle ne retournent pas tous une valeur
+  TP3.vcxproj -> C:\Users\Sébastien\Desktop\TP3\Debug\TP3.exe
